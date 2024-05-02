@@ -38,7 +38,7 @@
 *.i*86
 *.x86_64
 *.hex
-*.pyc 
+*.pyc
 
 # Debug files
 *.dSYM/
@@ -77,3 +77,6 @@ src/dafny/**/*.runtimeconfig.json
 /bin/
 **/.vscode
 *-proof.dfy
+
+
+out/**
